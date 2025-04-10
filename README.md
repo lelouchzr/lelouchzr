@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hello! I'm a Software Engineering student at **EPITECH** in France, and soon heading to **Inha University** in South Korea for an international exchange.<br>I just really enjoy coding and building stuff.
+Hello! I'm a Software Engineering student at **EPITECH** in France, currently preparing for an international exchange at **Inha University** in South Korea.
+
+I love coding and building cool stuff — whether it's small tools, bigger projects, or just experimenting with new tech.
+
+I enjoy a wide range of music — Metro Boomin and NewJeans are among my favorites.  
+I also enjoy gaming in my free time.
+
+Always curious, always learning.
+
 
 ## 🌐 Socials:
 <p align="center">
