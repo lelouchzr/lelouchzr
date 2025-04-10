@@ -3,7 +3,7 @@ Hello! I'm a Software Engineering student at **EPITECH** in France, and soon hea
 
 ## 🌐 Socials:
 <p align="center">
-    <a href="https://discord.com/users/__lelouch__"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
+    <a href="https://discord.com/users/lelouchzr_"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
 </p>
 
 # 💻 Tech Stack:
