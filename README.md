@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a student studying computer development.<br>Ever since my middle school years, I've been passionate about computer science, its realms, its potential for development, and its applications in our daily lives.<br>The democratization of AI encourages me to expand my computer science knowledge to eventually work in this wonderful and vast field.
+Hello! I'm a Software Engineering student at **EPITECH** in France, and soon heading to **Inha University** in South Korea for an international exchange.<br>I just really enjoy coding and building stuff.
 
 ## 🌐 Socials:
 <p align="center">
