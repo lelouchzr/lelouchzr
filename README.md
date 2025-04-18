@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a french Software Engineering student at **EPITECH** in France, currently preparing for an international exchange at **Inha University** in South Korea.
+Hello! I'm a french Software Engineering student at **EPITECH** in France, currently preparing for an international exchange at **Inha University** in South Korea and living in Seoul.
 
 I love coding and building cool stuff — whether it's small tools, bigger projects, or just experimenting with new tech.
 
