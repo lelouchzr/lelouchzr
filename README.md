@@ -3,7 +3,7 @@ Hello! I'm a french Software Engineering student.
 
 I love coding and building cool stuff, whether it's small tools, bigger projects, or just experimenting with new tech.
 
-I enjoy a wide range of music, Metro Boomin and NewJeans are among my favorites.  
+I enjoy a wide range of music.
 I also enjoy gaming in my free time.
 
 Always curious, always learning.
