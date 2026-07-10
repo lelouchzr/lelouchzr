@@ -13,7 +13,7 @@ Always curious, always learning.
   <a href="https://linkedin.com/in/adrien-lachambre">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="LinkedIn">
   </a>
-  <a href="mailto:contact@evergardn.com">
+  <a href="mailto:contact@adrienlachambre.com">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" alt="Mail">
   </a>
     <a href="https://discord.com/users/200678094929920001">
