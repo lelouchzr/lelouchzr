@@ -1,11 +1,12 @@
 # About me
 
-Hi! I'm Adrien, a French Software Engineering student at EPITECH.
+Hi, I’m Adrien, a French Software Engineering student at EPITECH with professional experience building backend applications and REST APIs.
 
-I'm interested in backend systems, web development, emerging technologies, and building useful digital products.  
-I enjoy working on personal projects around language learning, developer tools, web apps, and clean software architecture.
+I focus on Python, backend engineering, and AI applications. I build open-source developer tools around RAG, AI agents, and automated documentation, alongside full-stack products such as FlashCardStudy.
 
-Always curious, always learning.
+I enjoy designing scalable and maintainable software, exploring emerging technologies, and turning ideas into useful digital products. After studying in South Korea for a year, I’m also interested in international collaboration, languages, and discovering new cultures.
+
+Always building, always learning.
 
 ## Socials
 
